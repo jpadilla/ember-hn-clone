@@ -1,4 +1,4 @@
-export default = App.User.FIXTURES = [
+module.exports = App.User.FIXTURES = [
   {
     id: 1,
     username: 'jpadilla',

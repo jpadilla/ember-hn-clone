@@ -1,4 +1,4 @@
-export default = App.Router.map(function() {
+module.exports = App.Router.map(function() {
   this.resource('stories', function() {
     this.route('recent');
     this.route('submit');

@@ -1,4 +1,4 @@
-export default = App.Story.FIXTURES = [
+module.exports = App.Story.FIXTURES = [
   {
     id: 1,
     title: 'User onboarding',

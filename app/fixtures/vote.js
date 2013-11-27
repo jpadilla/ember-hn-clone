@@ -1,4 +1,4 @@
-export default = App.Vote.FIXTURES = [
+module.exports = App.Vote.FIXTURES = [
   {
     id: 1,
     user: 1

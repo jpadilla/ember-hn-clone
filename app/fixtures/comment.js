@@ -1,4 +1,4 @@
-export default = App.Comment.FIXTURES = [
+module.exports = App.Comment.FIXTURES = [
   {
     id: 1,
     body: 'This is a comment',

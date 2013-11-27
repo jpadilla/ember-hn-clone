@@ -1,1 +1,1 @@
-export default = App.ApplicationAdapter = DS.FixtureAdapter.extend();
+module.exports = App.ApplicationAdapter = DS.FixtureAdapter.extend();
